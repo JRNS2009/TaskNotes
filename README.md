@@ -1,19 +1,19 @@
 # TaskNotes
 TaskNotes is a Tasks/Notes App for your Kindle with KoReader.
 
-HOW TO USE TASKNOTES:
+### HOW TO USE TASKNOTES:
 
-PAGES
+## PAGES
 Swipe left/right to move between pages.
 Tap + to create a new page with 3 empty categories.
 
-CATEGORIES
+## CATEGORIES
 Tap an empty tab to name it. Tap a named tab to open it. Tap the open tab again to close it.
 
-ADDING A LINE
+## ADDING A LINE
 Pick H (heading), T (To-Do) or N (note), then tap the blank area to type. New lines go to the top. Finished To-Do's sink to the bottom.
 
-TO-DO LINES
+## TO-DO LINES
 Tap the circle to check it off. It turns into a checkmark, goes gray, and moves to the bottom.
 
 D -- delete mode: tap a line or a tab to delete it.
