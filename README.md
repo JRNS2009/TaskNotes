@@ -17,10 +17,10 @@ ____________________________________________________________________
    (if not found see if there are more than 1 pages in tools if yes
    turn it to the next Page.)
 
-*KoReader doesn't support USB Data Transfer while running yet... :(
+>*KoReader doesn't support USB Data Transfer while running yet... :(
   (Exit KoReader and switch into Kindle OS)
 _____________________________________________________________________
-### HOW TO USE TASKNOTES:
+### How to use TaskNotes:
 
 #### Pages 
 Swipe left/right to move between pages.
@@ -50,8 +50,6 @@ Up/down arrows appear next to the list when there are more lines than fit on scr
 ____________________________________________________________________________________
 ### Images of TaskNotes on a Kindle PW 2 (6th gen)
 
-TaskNotes Layout                                 |  TaskNotes all modes in an overview               | TaskNotes Travel2026 usecase example
-:-----------------------------------------------:|:-------------------------------------------------:|-------------------------------------------------:
-![TaskNotes_Layout](images/TaskNotes_Layout.png) |  ![TaskNotes_How-to](images/TaskNotes_How-to.png) | 
-
-
+ Layout                                |  Modes Overview                                             | Example: Packing List
+:-------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------------:
+![Layout](images/TaskNotes_Layout.png) |  ![Modes Overview](images/TaskNotes_all-modes-overview.png) | ![Example: Packing List](images/TaskNotes_Travel2026-Example.png) 
