@@ -13,7 +13,7 @@ ____________________________________________________________________
    (if not found see if there are more than 1 pages in tools if yes
    turn it to the next Page.)
 
-* KoReader doesn't support USB Data Transfer while running yet... :(
+*KoReader doesn't support USB Data Transfer while running yet... :(
   (Exit KoReader and switch into Kindle OS)
 _____________________________________________________________________
 ### HOW TO USE TASKNOTES:
@@ -42,8 +42,5 @@ M -- move mode: tap a line to pick it up, tap another spot to drop it there.
 Up/down arrows appear next to the list when there are more lines than fit on screen.
 ____________________________________________________________________________________
 ### Images of TaskNotes on a Kindle PW 2 (6th gen)
-
-____________________________________________________________________________________
-### How it all started
 
 ____________________________________________________________________________________
