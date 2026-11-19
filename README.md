@@ -1,5 +1,5 @@
 # TaskNotes
-TaskNotes is a note-taking plugin for your Kindle running KoReader. You can add Headings, Task and normal Notes(text).
+TaskNotes is a note-taking plugin for your Kindle running KoReader. You can add Headings, Task and normal Notes (text).
 
 Hmm.. BUT why on a *Kindle* you might ask.. Phones are addictive, Kindles not. 
 With an E-ink display built for books and not connected to your phone, 
@@ -7,11 +7,11 @@ it helps you stop getting distracted by unnecessary notifications while writing 
 ____________________________________________________________________
 ### <ins>How to Install, Setup and Locate TaskNotes:</ins>
 1. Download the .zip file from the latest release.
-2. Extract the zip file in to a folder of your choice.
+2. Extract the zip file into a folder of your choice.
 3. Connect your Kindle to your PC and Exit KoReader*
 4. Open the "koreader" folder from your Kindle's Internal Storage.
 5. Locate the "plugins" folder and open it.
-6. Drag the Extracted "tasknotes.koplugin" into the plugins folder.
+6. Drag the extracted "tasknotes.koplugin" into the plugins folder.
 7. Eject your Kindle and boot into KoReader.
 8. Swipe from the top and tap Tools. TaskNotes will be found there.<br>
    (Not found? There might be more than one page. Switch to the next page.)
