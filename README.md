@@ -30,8 +30,8 @@ Tap an empty tab to name it. Tap a named tab to open it.
 Tap the open tab again to close it.
 
 **Adding a line**<br>
-Pick H (heading), T (To-Do) or N (note), then tap the blank area to type. 
-New lines go to the top. Finished To-Do's sink to the bottom.
+Pick H (heading), T (To-Do) or N (note), then tap the blank area to type.<br>
+New lines go to the top.<br>Finished To-Do's sink to the bottom.
 
 **Adding a To-do line**<br>
 Tap the circle to check it off. It turns into a checkmark, goes gray, 
