@@ -1,5 +1,5 @@
 # TaskNotes
-TaskNotes is a note-taking plugin for your Kindle running KoReader. You can add Headdings, Task and normal Notes(text).
+TaskNotes is a note-taking plugin for your Kindle running KoReader. You can add Headings, Task and normal Notes(text).
 
 Hmm.. BUT why on a *Kindle* you might ask.. Phones are addictive, Kindles not. 
 With an E-ink display built for books and not connected to your phone, 
@@ -7,14 +7,14 @@ it helps you stop getting distracted by unnecessary notifications while writing 
 ____________________________________________________________________
 ### <ins>How to Install, Setup and Locate TaskNotes:</ins>
 1. Download the .zip file from the latest release.
-2. Extract the zip file in to a path your choice.
+2. Extract the zip file in to a folder of your choice.
 3. Connect your Kindle to your PC and Exit KoReader*
-4. Open KoReader folder from your Kindle Internal Storage
-5. Locate the plugins file and open it.
-6. Drag the Extracted tasknotes.koplugin into the koplugin folder.
+4. Open the "koreader" folder from your Kindle's Internal Storage.
+5. Locate the "plugins" folder and open it.
+6. Drag the Extracted "tasknotes.koplugin" into the plugins folder.
 7. Eject your Kindle and boot into KoReader.
-8. Swipe from the top and Klick Tools. TaskNotes will be found there.<br>
-   (Not found? There might be more the one page. Switch to the next page.)
+8. Swipe from the top and tap Tools. TaskNotes will be found there.<br>
+   (Not found? There might be more than one page. Switch to the next page.)
 
 >*KOReader doesn't support USB data transfer while it's running yet... :(<br>
  <sup>&nbsp;&nbsp;(Exit KoReader and switch into Kindle OS)</sup>
@@ -30,7 +30,7 @@ Tap an empty tab to name it. Tap a named tab to open it.
 Tap the open tab again to close it.
 
 **Adding a line**<br>
-Pick H (heading), T (To-Do) or N (note), then tap the blank area to type.<br>
+Pick H (heading), T (To-Do's) or N (note), then tap the blank area to type.<br>
 New lines go to the top. Finished To-Do's sink to the bottom.
 
 **Adding a To-do line**<br>
