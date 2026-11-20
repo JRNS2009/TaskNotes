@@ -49,3 +49,8 @@ ________________________________________________________________________________
  Layout                                |  Modes Overview                                             | Example: Packing List
 :-------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------------:
 ![Layout](images/TaskNotes_Layout.png) |  ![Modes Overview](images/TaskNotes_all-modes-overview.png) | ![Example: Packing List](images/TaskNotes_Travel2026-Example.png) 
+
+> [!NOTE]
+> **About This Project:** This is my very "first" project. My main goal was to have fun while learning Lua, VS Code, GitHub and how KOReader plugins work on my
+> Kindle. I used AI to help build this initial version, and my next goal is to rewrite the entire code from scratch on my own as I learn Lua (other languages
+> too) and eventually build brand-new plugins.
